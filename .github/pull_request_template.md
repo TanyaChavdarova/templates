@@ -1,4 +1,4 @@
-<!--- Provide a general summary of your changes in the Title above, start with [Number of task from Trello] -->
+<!--- Provide a general summary of your changes in the Title above, start with [Number of the task from Trello card] -->
 
 ## [Trello card]()
 
@@ -10,7 +10,7 @@
 ## Motivation and Context:
 <!--- Why is this change required? What problem does it solve? -->
 
-## Types of changes
+## Changes type:
 <!--- What types of changes does your code introduce? Put an `x` in all the boxes that apply: -->
 - [ ] Bug fix
 - [ ] New feature
@@ -27,7 +27,8 @@
 - [ ] I have updated the documentation accordingly.
 - [ ] I have added tests to cover my changes.
 - [ ] All new and existing tests passed.
-- [ ] Linter ('prospector') has passed locally and any fixes were made.
+- [ ] Linter ('prospector') has passed locally and no issues were found.
+- [ ] All my commits start with [Number of the task from Trello card]
 - [ ] I have squashed all fixups.
 - [ ] I have rebased on master.
 - [ ] All linter and tests passed.
