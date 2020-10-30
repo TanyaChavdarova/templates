@@ -1,4 +1,5 @@
-<!--- Provide a general summary of your changes in the Title above, start with [Number of task from Trello] -->
+<!--- Provide a general summary of your changes in the Title above -->
+<!--- Start with [Number of task from Trello] -->
 
 ## [Trello card]()
 
@@ -17,12 +18,17 @@
 - [ ] Refactoring
 - [ ] Documentation
 
+## Notes:
+<!--- Add if the task depends on another task, or there are something specific in task or implementation -->
 
 ## Checklist:
 <!--- Go over all the following points, and put an `x` in all the boxes that apply. -->
 - [ ] My code follows the code style of this project.
-- [ ] My change requires a change to the documentation.
+- [ ] My changes meet the requirements from the Trello card
 - [ ] I have updated the documentation accordingly.
-- [ ] I have read the **CONTRIBUTING** document.
 - [ ] I have added tests to cover my changes.
+- [ ] Linter ('prospector') has passed locally and any fixes were made.
 - [ ] All new and existing tests passed.
+- [ ] I have squashed all fixups.
+- [ ] My commits start with [Number of Trello card].
+- [ ] I have rebased master and Linter and tests passed.
